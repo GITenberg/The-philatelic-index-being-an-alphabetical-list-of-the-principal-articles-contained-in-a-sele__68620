@@ -1,5 +1,8 @@
 _repo: The-philatelic-index-being-an-alphabetical-list-of-the-principal-articles-contained-in-a-sele__68620
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68620-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, William A. R. Jex
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54866'
     url: http://www.gutenberg.org/2009/agents/54866
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68620#The-philatelic-index-being-an-alphabetical-list-of-the-principal-articles-contained-in-a-sele_
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68620'
